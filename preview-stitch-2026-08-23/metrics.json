@@ -1,0 +1,212 @@
+[
+  {
+    "route": "/",
+    "viewport": "desktop",
+    "status": 200,
+    "screenshot": "D:\\loveli-luxury\\preview-stitch-2026-08-23\\homepage-desktop.png",
+    "metrics": {
+      "scrollWidth": 1440,
+      "viewportWidth": 1440,
+      "scrollHeight": 6240,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": {
+        "top": 0,
+        "width": 1440,
+        "height": 63.375
+      },
+      "hero": {
+        "top": 63.375,
+        "height": 872.140625
+      },
+      "firstImage": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/p/pink-allure",
+    "viewport": "desktop",
+    "status": 200,
+    "screenshot": "D:\\loveli-luxury\\preview-stitch-2026-08-23\\product-pink-allure-desktop.png",
+    "metrics": {
+      "scrollWidth": 1440,
+      "viewportWidth": 1440,
+      "scrollHeight": 1341,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": {
+        "top": 0,
+        "width": 1440,
+        "height": 63.375
+      },
+      "hero": null,
+      "firstImage": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/p/crimson-noir",
+    "viewport": "desktop",
+    "status": 200,
+    "screenshot": "D:\\loveli-luxury\\preview-stitch-2026-08-23\\product-crimson-noir-desktop.png",
+    "metrics": {
+      "scrollWidth": 1440,
+      "viewportWidth": 1440,
+      "scrollHeight": 1595,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": {
+        "top": 0,
+        "width": 1440,
+        "height": 63.375
+      },
+      "hero": null,
+      "firstImage": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/",
+    "viewport": "mobile",
+    "status": 200,
+    "screenshot": "D:\\loveli-luxury\\preview-stitch-2026-08-23\\homepage-mobile.png",
+    "metrics": {
+      "scrollWidth": 390,
+      "viewportWidth": 390,
+      "scrollHeight": 7249,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": {
+        "top": 0,
+        "width": 390,
+        "height": 57.78125
+      },
+      "hero": {
+        "top": 57.78125,
+        "height": 598.671875
+      },
+      "firstImage": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/p/pink-allure",
+    "viewport": "mobile",
+    "status": 200,
+    "screenshot": "D:\\loveli-luxury\\preview-stitch-2026-08-23\\product-pink-allure-mobile.png",
+    "metrics": {
+      "scrollWidth": 390,
+      "viewportWidth": 390,
+      "scrollHeight": 2349,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": {
+        "top": 0,
+        "width": 390,
+        "height": 57.78125
+      },
+      "hero": null,
+      "firstImage": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/p/crimson-noir",
+    "viewport": "mobile",
+    "status": 200,
+    "screenshot": "D:\\loveli-luxury\\preview-stitch-2026-08-23\\product-crimson-noir-mobile.png",
+    "metrics": {
+      "scrollWidth": 390,
+      "viewportWidth": 390,
+      "scrollHeight": 2629,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": {
+        "top": 0,
+        "width": 390,
+        "height": 57.78125
+      },
+      "hero": null,
+      "firstImage": {
+        "width": 32,
+        "height": 32
+      }
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3109/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  }
+]

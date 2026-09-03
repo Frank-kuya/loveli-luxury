@@ -1,0 +1,348 @@
+[
+  {
+    "route": "/",
+    "viewport": "desktop",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\homepage-desktop.png",
+    "metrics": {
+      "title": "Loveli Luxury Scents: Where Love Meets Luxury",
+      "heading": "The Scent of Elegance, Bottled.",
+      "scrollWidth": 1440,
+      "viewportWidth": 1440,
+      "scrollHeight": 1774,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": null
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/shop",
+    "viewport": "desktop",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/shop",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\shop-desktop.png",
+    "metrics": {
+      "title": "The Collection | Loveli Luxury Scents | Loveli Luxury Scents",
+      "heading": "Scent, selected with intention.",
+      "scrollWidth": 1440,
+      "viewportWidth": 1440,
+      "scrollHeight": 4009,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": null
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/p/pink-allure",
+    "viewport": "desktop",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/p/pink-allure",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\product-pink-allure-desktop.png",
+    "metrics": {
+      "title": "Pink Allure | Loveli Luxury Scents",
+      "heading": "Pink Allure",
+      "scrollWidth": 1440,
+      "viewportWidth": 1440,
+      "scrollHeight": 1199,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": null
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/partners",
+    "viewport": "desktop",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/partners",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\partners-desktop.png",
+    "metrics": {
+      "title": "Partner Program | Loveli Luxury Scents | Loveli Luxury Scents",
+      "heading": "Build a luxury fragrance business",
+      "scrollWidth": 1440,
+      "viewportWidth": 1440,
+      "scrollHeight": 1233,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": {
+        "top": 81,
+        "height": 370.34375
+      }
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR"
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/story",
+    "viewport": "desktop",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/story",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\story-desktop.png",
+    "metrics": {
+      "title": "Our Story | Loveli Luxury Scents | Loveli Luxury Scents",
+      "heading": "Made for the way a room remembers you.",
+      "scrollWidth": 1440,
+      "viewportWidth": 1440,
+      "scrollHeight": 2703,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": null
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/cart",
+    "viewport": "desktop",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/cart",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\cart-desktop.png",
+    "metrics": {
+      "title": "Cart | Loveli Luxury Scents",
+      "heading": "Cart",
+      "scrollWidth": 1440,
+      "viewportWidth": 1440,
+      "scrollHeight": 900,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": null
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/login",
+    "viewport": "desktop",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/login",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\login-desktop.png",
+    "metrics": {
+      "title": "Sign in | Loveli Luxury Scents",
+      "heading": "Welcome Back",
+      "scrollWidth": 1440,
+      "viewportWidth": 1440,
+      "scrollHeight": 1046,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": null
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR"
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/",
+    "viewport": "mobile",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\homepage-mobile.png",
+    "metrics": {
+      "title": "Loveli Luxury Scents: Where Love Meets Luxury",
+      "heading": "The Scent of Elegance, Bottled.",
+      "scrollWidth": 390,
+      "viewportWidth": 390,
+      "scrollHeight": 1830,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": null
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/shop",
+    "viewport": "mobile",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/shop",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\shop-mobile.png",
+    "metrics": {
+      "title": "The Collection | Loveli Luxury Scents | Loveli Luxury Scents",
+      "heading": "Scent, selected with intention.",
+      "scrollWidth": 390,
+      "viewportWidth": 390,
+      "scrollHeight": 6137,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": null
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/p/pink-allure",
+    "viewport": "mobile",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/p/pink-allure",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\product-pink-allure-mobile.png",
+    "metrics": {
+      "title": "Pink Allure | Loveli Luxury Scents",
+      "heading": "Pink Allure",
+      "scrollWidth": 390,
+      "viewportWidth": 390,
+      "scrollHeight": 1776,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": null
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/partners",
+    "viewport": "mobile",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/partners",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\partners-mobile.png",
+    "metrics": {
+      "title": "Partner Program | Loveli Luxury Scents | Loveli Luxury Scents",
+      "heading": "Build a luxury fragrance business",
+      "scrollWidth": 390,
+      "viewportWidth": 390,
+      "scrollHeight": 1691,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": {
+        "top": 66.59375,
+        "height": 480.296875
+      }
+    },
+    "consoleErrors": [
+      "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR",
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/story",
+    "viewport": "mobile",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/story",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\story-mobile.png",
+    "metrics": {
+      "title": "Our Story | Loveli Luxury Scents | Loveli Luxury Scents",
+      "heading": "Made for the way a room remembers you.",
+      "scrollWidth": 390,
+      "viewportWidth": 390,
+      "scrollHeight": 3861,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": null
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/cart",
+    "viewport": "mobile",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/cart",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\cart-mobile.png",
+    "metrics": {
+      "title": "Cart | Loveli Luxury Scents",
+      "heading": "Cart",
+      "scrollWidth": 390,
+      "viewportWidth": 390,
+      "scrollHeight": 844,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": null
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled."
+    ],
+    "pageErrors": []
+  },
+  {
+    "route": "/login",
+    "viewport": "mobile",
+    "status": 200,
+    "finalUrl": "http://127.0.0.1:3114/login",
+    "screenshot": "D:\\loveli-luxury\\preview-split-hero-2026-08-23\\login-mobile.png",
+    "metrics": {
+      "title": "Sign in | Loveli Luxury Scents",
+      "heading": "Welcome Back",
+      "scrollWidth": 390,
+      "viewportWidth": 390,
+      "scrollHeight": 1080,
+      "bodyMargin": "0px",
+      "bodyOverflowX": "hidden",
+      "navbar": null,
+      "hero": null
+    },
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/speed-insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Refused to execute script from 'http://127.0.0.1:3114/_vercel/insights/script.js' because its MIME type ('text/plain') is not executable, and strict MIME type checking is enabled.",
+      "Failed to load resource: net::ERR_SSL_PROTOCOL_ERROR"
+    ],
+    "pageErrors": []
+  }
+]
